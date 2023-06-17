@@ -1,0 +1,15 @@
+.home{
+    margin-top: 100px;
+}
+
+
+
+.cardGroup-dark {
+    color: var(--white);
+    background-color: var(--fuchsia);
+}
+
+.cardGroup-light {
+    color: var(--dark);
+    background-color: var(--darkgoldenrod);
+}
